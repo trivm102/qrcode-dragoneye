@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:FirstName MiddleName LastName
+N;CHARSET=UTF-8:LastName;FirstName;MiddleName;;
+NICKNAME;CHARSET=UTF-8:
+BDAY:20230826
+TEL;TYPE=WORK,VOICE:Work Phone Number
+TITLE;CHARSET=UTF-8:Software Developer
+ORG;CHARSET=UTF-8:ActivSpaces Labs
+URL;CHARSET=UTF-8:https://github.com/valerycolong
+NOTE;CHARSET=UTF-8:Notes on contact
+REV:2023-08-26T15:48:50.527
+END:VCARD
