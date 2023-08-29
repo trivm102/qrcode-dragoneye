@@ -76638,7 +76638,7 @@ return A.dN(s,A.alB(A.fa(A.a([new A.On(s),new A.Mu(this.c,s)],t.p),B.a3,B.aS,B.a
 A.Mu.prototype={
 H(a){return A.W4(null,new A.abL(this),t.A,t.Oq)}}
 A.abL.prototype={
-$2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f="\u0110i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng (C\xf4ng vi\u1ec7c)",e=null,d="\u0110i\u1ec7n tho\u1ea1i",c="\u0110i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng",b="Trang web",a=a2.a,a0=a==null
+$2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f="1\u0110i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng (C\xf4ng vi\u1ec7c)",e=null,d="\u0110i\u1ec7n tho\u1ea1i",c="\u0110i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng",b="Trang web",a=a2.a,a0=a==null
 if(a0)s=e
 else{s=a.f
 s=s==null?e:s.length!==0}if(s===!0)s=a0?e:a.f
@@ -76709,7 +76709,7 @@ $0(){var s,r=this.a.a
 r=r==null?null:r.f
 s=window
 s.toString
-B.kl.EF(s,"tel:"+A.j(r),"_blank")},
+B.kl.EF(s,"tel:"+A.j(r),"self")},
 $S:24}
 A.abH.prototype={
 $0(){var s=this.a.a
